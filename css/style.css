@@ -1,0 +1,34 @@
+body{
+    margin-top: 50px;
+}
+
+div {
+  text-align: center;
+  border: 1px solid;
+  padding : 10px;
+  color: white;
+}
+
+#div1{
+  background: cyan;
+}
+
+#div2{
+  background: green;
+}
+
+#div3{
+  background: blue;
+}
+
+#div4{
+  background: red;
+}
+
+#div5{
+  background: yellow;
+}
+
+#div6{
+  background: purple;
+}
